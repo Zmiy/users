@@ -1,0 +1,15 @@
+[{
+    "first_name": "Stav",
+    "last_name": "Rockah",
+    "is_active": true
+},
+{
+    "first_name": "Tal",
+    "last_name": "Shriber",
+    "is_active": false
+},
+{
+    "first_name": "Elizabeth",
+    "last_name": "Patrick",
+    "is_active": true
+}]
